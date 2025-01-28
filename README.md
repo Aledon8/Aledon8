@@ -16,7 +16,7 @@
 - Experience with **Webmin**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,django,python,docker,vim" />
+    <img src="https://skillicons.dev/icons?i=git,django,python" />
   </a>
 </p>
 
@@ -31,7 +31,12 @@
 
 ### DevOps:
 - Knowledge of **Bash**, using **Zsh**
-- Server setup and app deployment  
+- Server setup and app deployment
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,npm,gitlab,github,mysql,nginx,apache,bash,selenium,grafana,linux,npm,postman" />
+  </a>
+</p>
 
 ---
 
