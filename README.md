@@ -35,7 +35,7 @@
 
 ## 📩 Contact
 - 📧 Email: [Aleksandr_Donich@student.itpu.uz](mailto:Aleksandr_Donich@student.itpu.uz)  
-- 📱 Telegram: [@your_username](https://t.me/aled0n)  
+- 📱 Telegram: [@aled0n](https://t.me/aled0n)  
 
 ---
 
