@@ -23,7 +23,7 @@
 ### Frontend:
 - JavaScript, React
 - HTML5, CSS3
-- - <p align="center">
+- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,html,css" />
   </a>
