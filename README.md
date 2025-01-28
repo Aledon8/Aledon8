@@ -3,7 +3,7 @@
 ## 💻 About Me
 - 🌍 Web developer passionate about creating modern and functional applications.  
 - 🌱 Currently learning **React** and developing full-stack skills.  
-- 🎨 Skilled in **Figma**[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) and designing user interfaces.  
+- 🎨 Skilled in **Figma** and designing user interfaces.  
 - 🛠 I love automating processes and configuring server environments.  
 
 ---
@@ -25,7 +25,7 @@
 - HTML5, CSS3
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap,figma" />
   </a>
 </p>
 
@@ -50,7 +50,12 @@
 
 ## 📩 Contact
 - 📧 Email: [Aleksandr_Donich@student.itpu.uz](mailto:Aleksandr_Donich@student.itpu.uz)  
-- 📱 Telegram: [@aled0n](https://t.me/aled0n)  
+- 📱 Telegram: [@aled0n](https://t.me/aled0n)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram,linkedin,telegram" />
+  </a>
+</p>  
 
 ---
 
