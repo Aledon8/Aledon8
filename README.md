@@ -3,7 +3,7 @@
 ## 💻 About Me
 - 🌍 Web developer passionate about creating modern and functional applications.  
 - 🌱 Currently learning **React** and developing full-stack skills.  
-- 🎨 Skilled in **Figma** and designing user interfaces.  
+- 🎨 Skilled in **Figma**[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) and designing user interfaces.  
 - 🛠 I love automating processes and configuring server environments.  
 
 ---
@@ -16,7 +16,7 @@
 - Experience with **Webmin**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,django,python" />
+    <img src="https://skillicons.dev/icons?i=git,django,flask,python,fastapi" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 - HTML5, CSS3
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 - Server setup and app deployment
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,npm,gitlab,github,mysql,nginx,apache,bash,selenium,grafana,linux,npm,postman" />
+    <img src="https://skillicons.dev/icons?i=docker,npm,gitlab,github,git,mysql,nginx,apache,bash,selenium,grafana,linux,npm,postman" />
   </a>
 </p>
 
