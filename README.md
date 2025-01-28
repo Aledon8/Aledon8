@@ -51,11 +51,6 @@
 ## 📩 Contact
 - 📧 Email: [Aleksandr_Donich@student.itpu.uz](mailto:Aleksandr_Donich@student.itpu.uz)  
 - 📱 Telegram: [@aled0n](https://t.me/aled0n)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram,linkedin,telegram" />
-  </a>
-</p>  
 
 ---
 
