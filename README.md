@@ -14,6 +14,7 @@
 - MySQL, MariaDB
 - Server configuration: **Nginx**, **Apache2**
 - Experience with **Webmin**
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,django,python)](https://skillicons.dev)
 
 ### Frontend:
 - JavaScript, React
@@ -36,12 +37,6 @@
 ## 📩 Contact
 - 📧 Email: [Aleksandr_Donich@student.itpu.uz](mailto:Aleksandr_Donich@student.itpu.uz)  
 - 📱 Telegram: [@aled0n](https://t.me/aled0n)  
-
----
-
-## 🌟 Stats
-![Aleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=aledon8&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aledon8&layout=compact&theme=radical)
 
 ---
 
