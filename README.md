@@ -35,13 +35,13 @@
 
 ## 📩 Contact
 - 📧 Email: [Aleksandr_Donich@student.itpu.uz](mailto:Aleksandr_Donich@student.itpu.uz)  
-- 📱 Telegram: [@your_username](https://t.me/your_username)  
+- 📱 Telegram: [@your_username](https://t.me/aled0n)  
 
 ---
 
 ## 🌟 Stats
-![Aleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Your_Username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_Username&layout=compact&theme=radical)
+![Aleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=aledon8&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aledon8&layout=compact&theme=radical)
 
 ---
 
