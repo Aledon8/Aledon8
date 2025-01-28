@@ -14,11 +14,20 @@
 - MySQL, MariaDB
 - Server configuration: **Nginx**, **Apache2**
 - Experience with **Webmin**
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,django,python)](https://skillicons.dev)
+- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,django,python,docker,vim" />
+  </a>
+</p>
 
 ### Frontend:
 - JavaScript, React
 - HTML5, CSS3
+- - <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,html,css" />
+  </a>
+</p>
 
 ### DevOps:
 - Knowledge of **Bash**, using **Zsh**
