@@ -50,7 +50,7 @@
 
 ## 📩 Contact
 - 📧 Email: [Aleksandr_Donich@student.itpu.uz](mailto:Aleksandr_Donich@student.itpu.uz)  
-- 📱 <img src="{https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white}" /> Telegram: [@aled0n](https://t.me/aled0n)
+- 📱 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> Telegram: [@aled0n](https://t.me/aled0n)
 
 ---
 
