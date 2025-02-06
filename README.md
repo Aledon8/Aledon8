@@ -49,7 +49,7 @@
 ---
 
 ## 📩 Contact
-- 📧 [![gmail](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=gmail&logoColor=#FF7139)](mailto:Aleksandr_Donich@student.itpu.uz)
+- 📧 [![gmail]((https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](mailto:Aleksandr_Donich@student.itpu.uz)
  : [Aleksandr_Donich@student.itpu.uz](mailto:Aleksandr_Donich@student.itpu.uz)  
 - 📱  : [@aled0n](https://t.me/aled0n)
 
