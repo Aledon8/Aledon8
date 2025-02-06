@@ -49,8 +49,9 @@
 ---
 
 ## 📩 Contact
-- 📧 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> : [Aleksandr_Donich@student.itpu.uz](mailto:Aleksandr_Donich@student.itpu.uz)  
-- 📱 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> : [@aled0n](https://t.me/aled0n)
+- 📧 [![gmail](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=gmail&logoColor=#FF7139)](mailto:Aleksandr_Donich@student.itpu.uz)
+ : [Aleksandr_Donich@student.itpu.uz](mailto:Aleksandr_Donich@student.itpu.uz)  
+- 📱  : [@aled0n](https://t.me/aled0n)
 
 ---
 
