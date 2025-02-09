@@ -25,7 +25,7 @@
 - HTML5, CSS3
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap,figma" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,sass,bootstrap,figma" />
   </a>
 </p>
 
