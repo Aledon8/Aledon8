@@ -67,5 +67,7 @@
 
 ---
 
-✨ **"Real code is art."**  
-![Visitor Count](https://komarev.com/ghpvc/?username=aledon8&color=blueviolet)
+✨ **"Real code is art."** 
+
+✨ **"PROFILE VIEWS"** ![Visitor Count](https://komarev.com/ghpvc/?username=aledon8&color=blueviolet)
+
