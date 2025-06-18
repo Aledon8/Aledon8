@@ -57,14 +57,5 @@
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Aledon8)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aledon8)
 
----
-
-## 🚀 Goals for 2025
-- Achieve an advanced level in **React** and web development.  
-- Create an open-source project for the community.  
-- Master Docker and containerization for easier app deployment.  
-- Deepen my knowledge in server environment management.  
-
----
 
 
