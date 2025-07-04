@@ -16,7 +16,7 @@
 - Experience with **Webmin**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,django,flask,python,fastapi" />
+    <img src="https://skillicons.dev/icons?i=django,flask,python,fastapi" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 - Server setup and app deployment
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,npm,gitlab,github,git,mysql,nginx,apache,bash,selenium,grafana,postgres,linux,postman,vim" />
+    <img src="https://skillicons.dev/icons?i=docker,npm,gitlab,github,git,mysql,nginx,apache,bash,selenium,grafana,postgres,linux,postman,vim,jenkins,redis,mongodb" />
   </a>
 </p>
 
