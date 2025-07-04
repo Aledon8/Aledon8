@@ -34,7 +34,10 @@
 - Server setup and app deployment
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,npm,gitlab,github,git,mysql,nginx,apache,bash,selenium,grafana,postgres,linux,postman,vim,jenkins,redis,mongodb,kafka" />
+    <img src="https://skillicons.dev/icons?i=docker,npm,gitlab,github,git,mysql,nginx,apache,bash,selenium,grafana,postgres,linux,postman,vim" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jenkins,redis,mongodb,kafka" />
   </a>
 </p>
 
