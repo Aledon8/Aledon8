@@ -45,7 +45,6 @@
 
 ## 📈 What I Do
 - 🏗 Build web applications using Django and React.  
-- 🎨 Design prototypes and user interfaces in Figma.  
 - 🌐 Set up server environments, including Nginx, Webmin, and Apache2.  
 - 📊 Work with MySQL and MariaDB databases.  
 
