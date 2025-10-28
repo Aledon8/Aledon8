@@ -3,7 +3,6 @@
 ## 💻 About Me
 - 🌍 Web developer passionate about creating modern and functional applications.  
 - 🌱 Currently learning **React** and developing full-stack skills.  
-- 🎨 Skilled in **Figma** and designing user interfaces.  
 - 🛠 I love automating processes and configuring server environments.  
 
 ---
