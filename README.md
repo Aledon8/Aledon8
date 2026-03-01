@@ -14,7 +14,7 @@ I build web applications and configure server environments.
 
 ## Contact
 
-- Email: Aleksandr_Donich@student.itpu.uz  
+- Email: aledon.job@gmail.com 
 - Telegram: https://t.me/aled0n  
 - LinkedIn: https://www.linkedin.com/in/alexander-donich-36b68933a  
 - GitHub: https://github.com/Aledon8  
